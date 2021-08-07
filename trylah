@@ -41,23 +41,8 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA
-http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO Rania" tvg-logo="https://iptv-pro.github.io/logo/Rania.png" group-title="ASTRO",ASTRO Rania
-http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO Aura" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Aura.png" group-title="ASTRO",ASTRO Aura
-http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
-
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO Oh K" tvg-logo="https://iptv-pro.github.io/logo/Oh%21K.png" group-title="ASTRO",ASTRO Oh K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO TvN" tvg-logo="https://iptv-pro.github.io/logo/tvN.png" group-title="ASTRO",ASTRO TvN
-http://50.7.161.82:8278/streams/d/Tvn/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO TvN Movies" tvg-logo="https://iptv-pro.github.io/logo/tvN%20Movies.png" group-title="ASTRO",ASTRO TvN Movies
-http://50.7.161.82:8278/streams/d/Tvnmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -65,8 +50,11 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="404" tvg-name="Colors" tvg-logo="https://iptv-pro.github.io/logo/COLORS.png" group-title="ASTRO",Colors
-http://50.7.161.82:8278/streams/d/Colors/playlist.m3u8
+#EXTINF:-1 tvg-id="Oasis" tvg-name="Astro Oasis" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Oasis.png" group-title="ASTRO",ASTRO OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ria" tvg-name="Astro Ria" tvg-logo="https://iptv-pro.github.io/logo/Astro%20Ria.png" group-title="ASTRO",ASTRO RIA
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
