@@ -41,11 +41,14 @@ http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA HD
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO WARNA HD" tvg-logo="https://telegra.ph/file/f5b89c7905945e0ae354c.png" group-title="ASTRO",ASTRO WARNA
 http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="107" tvg-name="ASTRO Oh K" tvg-logo="https://iptv-pro.github.io/logo/Oh%21K.png" group-title="ASTRO",ASTRO Oh K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107" tvg-name="ASTRO TvN" tvg-logo="https://iptv-pro.github.io/logo/tvN.png" group-title="ASTRO",ASTRO TVN
+http://50.7.161.82:8278/streams/d/Tvn/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png",Astro Vaanavil
 https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
