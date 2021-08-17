@@ -46,10 +46,10 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
-http://50.7.161.82:8278/streams/d/Riahd/playlist.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/160/video-cif-stream-5-146627777077578.m4f
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/streams/d/Warnahd/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Colors/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
@@ -311,12 +311,12 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="Malaysia",K Plus
-https://livecdn.fptplay.net/sdb/kplus_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/tvnmovies_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-ID="KBS.Int" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="Malaysia",Oh K
-https://livecdn.fptplay.net/sdb/ohk_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/tvn_hls.smil/chunklist_b2500000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
