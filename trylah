@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",TV1
 https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
@@ -43,16 +46,16 @@ http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
-http://50.7.161.82:8278/streams/d/Astroria/playlist.m3u8
+http://50.7.161.82:8278/streams/d/RIA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/streams/d/Astrowarna/playlist.m3u8
+http://50.7.161.82:8278/streams/d/WARNA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="108" tvg-name="ASTRO CITRA HD" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg" group-title="ASTRO",ASTRO CITRA HD
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 
 #EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+http://50.7.161.82:8278/streams/d/Bollyone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="404" tvg-name="BOO" tvg-logo="https://telegra.ph/file/92cec2d7aec1e554f572b.jpg" group-title="ASTRO",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
